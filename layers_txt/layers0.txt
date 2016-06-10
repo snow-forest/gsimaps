@@ -5,7 +5,7 @@
       "id": "std",
       "title": "標準地図",
       "iconUrl": "",
-      "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      "url": "https://tile.openstreetmap.jp/{x}/{y}/{z}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
